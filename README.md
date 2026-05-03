@@ -29,3 +29,5 @@
 - Docker
 
 ## 🔁 프로젝트 설치 및 실행
+
+SpringbootTemplateApplication 실행 디버그
